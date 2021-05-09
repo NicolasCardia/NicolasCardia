@@ -3,6 +3,9 @@
 
 <h3> :man: &nbsp; Sou estudando de Desenvolvimento Web Full Stack pela resilia educação, sempre estou buscando novos conhecimentos, porem meu foco é em back end </h3>
 
+
+<img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
+
 - 🤔 &nbsp; Aprimorando meu conhecimentos 
 - 🎓 &nbsp; Estudando Desenvolvimento Web Full Stack no <a href="https://www.resilia.work/">Resilia</a>.
 - 🌱 &nbsp; Aprendendo mais sobre Java.
@@ -37,6 +40,9 @@
   ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
 
 <br/>
+<a href="https://github.com/NicolasCardia">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasCardia&theme=dracula&hide_langs_below=1" />
+</a>
 
 <a href="https://github.com/NicolasCardia">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NicolasCardia&theme=dracula&show_icons=true" />
