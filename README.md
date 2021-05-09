@@ -1,7 +1,7 @@
 
 ![](https://komarev.com/ghpvc/?username=VanessaSwerts&color=006bed)
 
-<h3> :man: &nbsp; Sou estudando de Desenvolvimento Web Full Stack pela resilia educação, sempre estou buscando novos conhecimentos, porem meu foco é em back end </h3>
+<h3> :man: &nbsp; Sou estudante de Desenvolvimento Web Full Stack pela resilia educação, sempre estou buscando novos conhecimentos, porem meu foco é em back end </h3>
 
 
 <img align="right" width="300" src="https://blog.bsource.com.br/assets/img/Tutorial.gif" />
