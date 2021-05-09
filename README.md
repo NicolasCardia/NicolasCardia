@@ -46,6 +46,6 @@
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
-[![Linkedin: SEU NOME](https://img.shields.io/badge/-Nicolas Cardia-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/nicolas-cardia-silva/)
+[![Linkedin: SEU NOME](https://img.shields.io/badge/-Nicolas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nicolas-cardia-silva/)](https://www.linkedin.com/in/nicolas-cardia-silva/)
 [![Gmail Badge](https://img.shields.io/badge/-nicolascardia@gmail.com.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nicolascardia@gmail.com)](mailto:nicolascardia@gmail.com)
 [![GitHub Nicolas]( https://img.shields.io/github/followers/NicolasCardia?label=follow&style=social)](https://github.com/NicolasCardia)
