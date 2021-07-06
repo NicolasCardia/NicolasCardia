@@ -7,7 +7,7 @@
 <img align="right" width="300" src="https://blog.bsource.com.br/assets/img/Tutorial.gif" />
 
 - 🤔 &nbsp; Aprimorando meus conhecimentos 
-- 🎓 &nbsp; Estudando Desenvolvimento Web Full Stack na <a href="https://www.resilia.work/">Resilia</a>.
+- 🎓 &nbsp; Desenvolvedor Web Full Stack pela <a href="https://www.resilia.work/">Resilia</a>.
 - 🌱 &nbsp; Aprendendo mais sobre Java.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
