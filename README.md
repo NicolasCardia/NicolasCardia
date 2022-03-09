@@ -1,13 +1,14 @@
 
 ![](https://komarev.com/ghpvc/?username=VanessaSwerts&color=006bed)
 
-<h3> :man: &nbsp; Sou estudante de Desenvolvimento Web Full Stack pela resilia educação, sempre estou buscando novos conhecimentos, porem meu foco é em back end </h3>
+<h3> :man: &nbsp; Formado em Desenvolvimento Web Full Stack pela resilia educação, sempre estou buscando novos conhecimentos, porem meu foco é em back end </h3>
 
 
 <img align="right" width="300" src="https://blog.bsource.com.br/assets/img/Tutorial.gif" />
 
 - 🤔 &nbsp; Aprimorando meus conhecimentos 
 - 🎓 &nbsp; Desenvolvedor Web Full Stack pela <a href="https://www.resilia.work/">Resilia</a>.
+- - 🎓 &nbsp; Estudando analise e desenvolvimento de sistemas pela FIAP <a href="https://www.fiap.com.br/">Resilia</a>.
 - 🌱 &nbsp; Aprendendo mais sobre Java.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
