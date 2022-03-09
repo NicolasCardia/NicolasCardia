@@ -8,7 +8,7 @@
 
 - 🤔 &nbsp; Aprimorando meus conhecimentos 
 - 🎓 &nbsp; Desenvolvedor Web Full Stack pela <a href="https://www.resilia.work/">Resilia</a>.
-- - 🎓 &nbsp; Estudando analise e desenvolvimento de sistemas pela FIAP <a href="https://www.fiap.com.br/">Resilia</a>.
+- 🎓 &nbsp; Estudando analise e desenvolvimento de sistemas pela <a href="https://www.fiap.com.br/">FIAP</a>.
 - 🌱 &nbsp; Aprendendo mais sobre Java.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
